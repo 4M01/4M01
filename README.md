@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Amol Chavan.
 - 👀 I’m interested in Software Testing and Test Automation, DevOps.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python Open source projects
 - 📫 How to reach me: Drop me a email at 2amolchavan@gmail.com
 
 <!---
