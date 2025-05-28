@@ -63,8 +63,8 @@ I'm a passionate Quality Assurance professional with **10+ years of experience**
 
 ## 💼 Professional Experience
 
-### 🚀 Stealth Mode Start-up (May 2022 - Present)
-**Consultant | Remote**
+### 🚀 Showrunnr India Pvt Ltd (May 2022 - Present)
+**Director, Engineering | Remote**
 - Set up complete testing processes from ground zero
 - Implemented Playwright-based automation suites (Sanity & Regression)
 - Led DevOps initiatives including EKS upgrades and infrastructure migration
