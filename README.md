@@ -2,11 +2,11 @@
 
 **Senior QA Engineer & Test Automation Expert** | 10+ Years Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/4M01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4M01)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amolchavan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amolchavan)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#https://www.amolchavan.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4m01/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4m01/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1115090/amol-chavan?tab=profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmolChavan_)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://amolchavan.xyz)
 
 ## 🚀 About Me
 
@@ -23,7 +23,6 @@ I'm a passionate Quality Assurance professional with **10+ years of experience**
 ### Test Automation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### API Testing
@@ -105,9 +104,7 @@ Mumbai University
 I'm always interested in discussing test automation, performance testing, DevOps practices, and building quality-focused engineering cultures. Feel free to reach out!
 
 - 📧 **Email**: 2amolchavan@gmail.com
-- 📱 **Phone**: +91-9960945954
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/amolchavan)
-- 🐦 **Twitter**: Follow for QA insights and tips
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/4m01/)
 
 ---
 
