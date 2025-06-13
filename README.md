@@ -96,7 +96,6 @@ Mumbai University
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4M01&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4M01&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
