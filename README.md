@@ -91,7 +91,7 @@ Mumbai University
 
 ## 🏆 Awards & Recognition
 
-- 🥇 **Winner** - (STeP IN Hackathon for Tester)[https://www.amolchavan.xyz/posts/learning/testautothon-takeaways-2019/]
+- 🥇 **Winner** - [STeP IN Hackathon for Tester](https://www.amolchavan.xyz/posts/learning/testautothon-takeaways-2019/)
 - 🥈 **Runner-up** - Internal Hackathon
 
 ## 📊 GitHub Stats
