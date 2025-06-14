@@ -59,7 +59,7 @@ I'm a passionate Quality Assurance professional with **14+ years of experience**
 - 👥 **Built and scaled QA teams** from individual contributors to teams of 4+ members
 - 📈 **Increased test coverage by 40%** across multiple platforms (Android/iOS/Web)
 - 🔧 **Established QA processes from scratch** in multiple organizations
-- 🏅 **Won STeP IN Hackathon** for Tester category
+
 
 ## 💼 Professional Experience
 
@@ -91,7 +91,7 @@ Mumbai University
 
 ## 🏆 Awards & Recognition
 
-- 🥇 **Winner** - STeP IN Hackathon for Tester
+- 🥇 **Winner** - (STeP IN Hackathon for Tester)[https://www.amolchavan.xyz/posts/learning/testautothon-takeaways-2019/]
 - 🥈 **Runner-up** - Internal Hackathon
 
 ## 📊 GitHub Stats
