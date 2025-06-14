@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Quality Assurance professional with **10+ years of experience** specializing in test automation, performance testing, and building robust QA processes from the ground up. I love creating scalable automation frameworks and enabling teams to ship quality software faster.
+I'm a passionate Quality Assurance professional with **14+ years of experience** specializing in test automation, performance testing, and building robust QA processes from the ground up. I love creating scalable automation frameworks and enabling teams to ship quality software faster.
 
 - 🔭 Currently working as a **Consultant** at a Stealth Mode Start-up
 - 🌱 Expert in **UI/API Automation**, **Performance Testing**, and **DevOps**
